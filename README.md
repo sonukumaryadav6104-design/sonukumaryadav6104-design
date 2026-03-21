@@ -1,5 +1,11 @@
-# 💫 About Me:
-#  Sonu Kumar | Software Engineer in Progress<br>Building scalable systems, solving complex problems, and exploring AI 🚀  <br><br><br>## 🧠 Who Am I?<br>I am a passionate developer focused on:<br>- 💻 Data Structures & Algorithms  <br>- 🤖 Machine Learning & AI  <br>- ⚙️ Backend Development  <br>I enjoy transforming ideas into real-world applications and continuously improving my problem-solving skills.<br><br><br>## ⚡ Tech Stack<br>Languages  :  DSA Using Java , Python <br>Libraries       :  Pandas, NumPy, Matplotlib ,Sciket Learn <br>Platforms     :  Jupyter Notebook, Visual Studio Code <br>Soft Skills      :  People Management, Communication <br>Backend       :   Node.js, Express, MongoDB, and EJS, CRUD operations,<br><br><br>## 🛠️ Featured Projects<br>🔹 **Loanify** – ML-based loan prediction system  <br>🔹 **Smart Cart Clustering** – ML-based Customer selection system  <br>🔹 **StaySphere** – Full-stack web application  <br><br><br>## 📌 Current Focus<br>- Solving DSA problems daily  <br>- Exploring AIML<br><br><br>## 🎯 Vision<br>To become a top software engineer and build impactful products that solve real-world problems.<br><br>⭐ *“Code. Learn. Build. Repeat.”*
+# About Me:
+I am a second-year BTech student with a keen interest in Artificial Intelligence and Machine Learning (AI/ML). 
+
+Currently, I’m building a strong foundation in subjects such as programming, data structures, and algorithms, while diving deeper into AI/ML concepts. 
+
+I’m eager to gain hands-on experience through projects, internships, and collaborations in these areas.
+
+Aspiring for a challenging  career  in software development as to use my learned skills for best results.
 
 
 ## 🌐 Socials:
