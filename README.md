@@ -18,7 +18,7 @@
   </a>
   <br>
   <a href="mailto:sonukumaryadav6104@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.icons8.com/ios-filled/50/EA4335/gmail.png" height="40"/>
   </a>
 
 ## 💻 Tech Stack:
