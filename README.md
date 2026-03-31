@@ -2,14 +2,14 @@
 #                                      <p align="center">  Hi there👋, I'm Sonu Kumar Yadav<br> <p>
 
 # 🧠 About Me
-## 🚀 Software Engineer in the making <br><br>Passionate about building intelligent systems and solving real-world problems using Machine Learning and Data Structures & Algorithms.  
-<br>💡 Currently focused on:<br>- Mastering DSA for strong problem-solving skills  <br>- Learning and implementing Machine Learning models  <br>- Building practical, real-world projects  <br>
+### 🚀 Software Engineer in the making <br><br>Passionate about building intelligent systems and solving real-world problems using Machine Learning and Data Structures & Algorithms.  
+### <br>💡 Currently focused on:<br>- Mastering DSA for strong problem-solving skills  <br>- Learning and implementing Machine Learning models  <br>- Building practical, real-world projects  <br>
 
 
 # 🌐 Connect With Me
 
 <p align="center">
-  <a href="www.linkedin.com/in/sonu-kumar-32a09a2ba" target="_blank">
+  <a href="https://www.linkedin.com/in/sonu-kumar-32a09a2ba" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Sonu%20Yadav-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <br>
