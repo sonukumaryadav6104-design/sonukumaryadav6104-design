@@ -17,10 +17,10 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=sonukumaryadav6104-design&icon=0&color=0)](https://visitcount.itsvg.in)
 
+## 💻 LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/Sonu_kumar61?theme=dark&font=Baloo%202&ext=heatmap)
+
 ## 📊 GitHub Stats
-
-![Sonu's GitHub stats](https://github-readme-stats.vercel.app/api?username=sonukumaryadav6104-design&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sonukumaryadav6104-design&layout=compact&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=sonukumaryadav6104-design&theme=tokyonight)
