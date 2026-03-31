@@ -41,6 +41,5 @@
 </div>
 
 ## 📊 <b>GitHub Stats:</b>
-<div align="center">
 ![GitHub Streak](https://streak-stats.demolab.com/?user=sonukumaryadav6104-design&theme=tokyonight) 
-</div>
+
