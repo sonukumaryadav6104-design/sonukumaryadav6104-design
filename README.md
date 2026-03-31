@@ -17,8 +17,8 @@
     <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
   <br>
-  <a href="mailto:sonukumaryadav6104@gmail.com">
-    <img src="https://img.icons8.com/ios-filled/50/EA4335/gmail.png" height="40"/>
+ <a href="mailto:sonukumaryadav6104@gmail.com">
+    <img src="https://img.icons8.com/ios-filled/50/EA4335/gmail.png" />
   </a>
 
 ## 💻 Tech Stack:
