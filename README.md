@@ -19,7 +19,11 @@
 
 ## 💻 LeetCode Stats
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Sonu_kumar61?theme=dark&font=Baloo%202&ext=heatmap)
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/Sonu_kumar61?theme=tokyonight&font=Baloo%202&ext=heatmap" />
+
+</div>
 
 ## 📊 GitHub Stats
 
