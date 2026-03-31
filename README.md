@@ -24,8 +24,7 @@
 <br>
 <br>
 
-# 💻 Tech Stack:
-
+## 💻 Tech Stack:
 <br>
 <p align="center">
 
@@ -34,7 +33,7 @@
 </p>
 <br>
 <br>
-#  💻 LeetCode Stats:
+## 💻 <b> LeetCode Stats </b>>:
 <br>
 <div align="center">
 
@@ -43,7 +42,6 @@
 </div>
 <br>
 <br>
+## 📊 <b>GitHub Stats:</b>
 <br>
-# 📊 GitHub Stats:
-
 ![GitHub Streak](https://streak-stats.demolab.com/?user=sonukumaryadav6104-design&theme=tokyonight)
