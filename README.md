@@ -6,7 +6,7 @@
 ### <br>💡 Currently focused on:<br>- Mastering DSA for strong problem-solving skills  <br>- Learning and implementing Machine Learning models  <br>- Building practical, real-world projects  <br>
 
 
-## 🌐 Connect With Me
+## 🌐 Profiles & Contact
 
 
   <a href="https://www.linkedin.com/in/sonu-kumar-32a09a2ba" target="_blank">
@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
   <br>
-  <a href="sonukumaryadav6104@gmail.com">
+  <a href="mailto:sonukumaryadav6104@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
