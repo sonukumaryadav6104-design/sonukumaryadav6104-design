@@ -1,9 +1,9 @@
 
-#                                       Hi there👋, I'm Sonu Kumar Yadav<br><br>
+#                                      <p align="center">  Hi there👋, I'm Sonu Kumar Yadav<br> <p>
 
 ## 🧠 About Me<br>
 🚀 Software Engineer in the making <br><br>Passionate about building intelligent systems and solving real-world problems using Machine Learning and Data Structures & Algorithms.  
-<<br>💡 Currently focused on:<br>- Mastering DSA for strong problem-solving skills  <br>- Learning and implementing Machine Learning models  <br>- Building practical, real-world projects  <br><br> 
+<<br>💡 Currently focused on:<br>- Mastering DSA for strong problem-solving skills  <br>- Learning and implementing Machine Learning models  <br>- Building practical, real-world projects  <br>
 
 
 ## 🌐 Connect With Me
@@ -22,7 +22,7 @@
   </a>
 </p>
 <br>
-<br>
+
 
 ## 💻 Tech Stack:
 <br>
@@ -32,16 +32,15 @@
 
 </p>
 <br>
-<br>
+
 ## 💻 <b> LeetCode Stats </b>>:
-<br>
 <div align="center">
 
 <img src="https://leetcard.jacoblin.cool/Sonu_kumar61?theme=tokyonight&font=Baloo%202&ext=heatmap" />
 
 </div>
-<br>
-<br>
+
 ## 📊 <b>GitHub Stats:</b>
-<br>
-![GitHub Streak](https://streak-stats.demolab.com/?user=sonukumaryadav6104-design&theme=tokyonight)
+<div align="center">
+![GitHub Streak](https://streak-stats.demolab.com/?user=sonukumaryadav6104-design&theme=tokyonight) 
+</div>
