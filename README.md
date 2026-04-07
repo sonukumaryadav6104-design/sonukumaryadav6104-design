@@ -36,7 +36,7 @@
 🌐 Users can explore properties, view details, and make bookings easily.  
 🔐 Secure authentication & smooth user experience.  
 
-🔗 <a href="https://github.com/your-username/staysphere">View Repository</a>
+🔗 <a href="https://github.com/sonukumaryadav6104-design/StaySphere">View Repository</a>
 
 </td>
 
