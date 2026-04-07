@@ -32,7 +32,7 @@
 
 ### 🌟 Staysphere  
 
-🏨 A full-stack MERN web application for booking and managing stays seamlessly.  
+🏨 A full-stack web application for booking and managing stays seamlessly.  
 🌐 Users can explore properties, view details, and make bookings easily.  
 🔐 Secure authentication & smooth user experience.  
 
@@ -43,7 +43,7 @@
 <td width="50%">
 
 ### ⚙️ Tech Stack  
-<img src="https://skillicons.dev/icons?i=react,tailwind,nodejs,express,mongodb,git,github" />
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,mongodb,git,github" />
 
 </td>
 </tr>
@@ -54,9 +54,9 @@
 ### ✨ Key Features
 - 🔍 Search & filter stays  
 - 🧾 Booking system  
-- 🔐 User authentication (Login/Signup)  
-- 📱 Responsive UI  
-- ⚡ Fast & scalable backend  
+- 🔐 Authentication system  
+- 📱 Responsive UI (HTML, CSS, JS)  
+- ⚡ REST API with Node.js & Express  
 
 📌 Status: Completed
 ##  💻 <b> LeetCode Stats : </b> 
