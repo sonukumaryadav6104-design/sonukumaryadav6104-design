@@ -23,7 +23,42 @@
   <a href="mailto:sonukumaryadav6104@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  
+
+## 🚀 Featured Project
+
+<table>
+<tr>
+<td width="50%">
+
+### 🌟 Staysphere  
+
+🏨 A full-stack MERN web application for booking and managing stays seamlessly.  
+🌐 Users can explore properties, view details, and make bookings easily.  
+🔐 Secure authentication & smooth user experience.  
+
+🔗 <a href="https://github.com/your-username/staysphere">View Repository</a>
+
+</td>
+
+<td width="50%">
+
+### ⚙️ Tech Stack  
+<img src="https://skillicons.dev/icons?i=react,tailwind,nodejs,express,mongodb,git,github" />
+
+</td>
+</tr>
+</table>
+
+---
+
+### ✨ Key Features
+- 🔍 Search & filter stays  
+- 🧾 Booking system  
+- 🔐 User authentication (Login/Signup)  
+- 📱 Responsive UI  
+- ⚡ Fast & scalable backend  
+
+📌 Status: Completed
 ##  💻 <b> LeetCode Stats : </b> 
 <div align="center">
 <img src="https://leetcard.jacoblin.cool/Sonu_kumar61?theme=tokyonight&font=Baloo%202&ext=heatmap" />
