@@ -52,13 +52,13 @@
 ---
 
 ### ✨ Key Features
-- 🔍 Search & filter stays  
 - 🧾 Booking system  
 - 🔐 Authentication system  
 - 📱 Responsive UI (HTML, CSS, JS)  
 - ⚡ REST API with Node.js & Express  
 
-📌 Status: Completed
+📌 Status: Completed 
+
 ##  💻 <b> LeetCode Stats : </b> 
 <div align="center">
 <img src="https://leetcard.jacoblin.cool/Sonu_kumar61?theme=tokyonight&font=Baloo%202&ext=heatmap" />
