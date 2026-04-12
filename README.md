@@ -2,7 +2,7 @@
 #                                      <p align="center">  Hi there👋, I'm Sonu Kumar <br> <p>
 
 
-### 🚀 Software Engineer in the making <br><br>Passionate about building intelligent systems and solving real-world problems using Machine Learning and Data Structures & Algorithms.  
+### 🚀 Software Engineer in the making <br><br>Passionate about building intelligent systems and solving real-world problems. 
 ### <br>💡 Currently focused on:<br>- Mastering DSA for strong problem-solving skills  <br>- Learning and implementing Machine Learning models  <br>- Building practical, real-world projects  <br>
 
 
