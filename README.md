@@ -3,7 +3,7 @@
 
 
 ### 🚀 Software Engineer in the making <br><br>Passionate about building intelligent systems and solving real-world problems. 
-### <br>💡 Currently focused on:<br>- Mastering DSA for strong problem-solving skills  <br>- Learning and implementing Machine Learning models  <br>- Building practical, real-world projects  <br>
+### <br>💡 Currently focused on:<br>- Mastering DSA for strong problem-solving skills  <br>- Learning and implementing Machine Learning models  <br>- Building practical, real-world projects  <br>-Building real world application using MERN <br>
 
 
 ## 💻 Tech Stack:
