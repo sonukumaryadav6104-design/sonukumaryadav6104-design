@@ -51,8 +51,7 @@
 
 ---
 
-### ✨ Key Features
-- 🧾 Booking system  
+### ✨ Key Featurees
 - 🔐 Authentication system  
 - 📱 Responsive UI (HTML, CSS, JS)  
 - ⚡ REST API with Node.js & Express  
