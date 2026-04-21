@@ -24,46 +24,10 @@
     <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
-## 🚀 Featured Project
-
-<table>
-<tr>
-<td width="50%">
-
-### 🌟 Staysphere  
-
-🏨 A full-stack web application for booking and managing stays seamlessly.  
-🌐 Users can explore properties, view details, and make bookings easily.  
-🔐 Secure authentication & smooth user experience.  
-
-🔗 <a href="https://github.com/sonukumaryadav6104-design/StaySphere">View Repository</a>
-
-</td>
-
-<td width="50%">
-
-### ⚙️ Tech Stack  
-<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,mongodb,git,github" />
-
-</td>
-</tr>
-</table>
-
----
-
-### ✨ Key Featurees
-- 🔐 Authentication system  
-- 📱 Responsive UI (HTML, CSS, JS)  
-- ⚡ REST API with Node.js & Express  
-
-📌 Status: Completed 
-
 ##  💻 <b> LeetCode Stats : </b> 
 <div align="center">
 <img src="https://leetcard.jacoblin.cool/Sonu_kumar61?theme=tokyonight&font=Baloo%202&ext=heatmap" />
 </div>
 
 
-## 📊 <b> GitHub Stats : </b>
-![GitHub Streak](https://streak-stats.demolab.com/?user=sonukumaryadav6104-design&theme=tokyonight) 
 
