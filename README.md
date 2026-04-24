@@ -31,21 +31,6 @@
 
 ## 📊 GitHub Stats
 
-![Sonu's GitHub stats](https://github-readme-stats.vercel.app/api?username=sonukumaryadav6104-design&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sonukumaryadav6104-design&layout=compact&theme=tokyonight)
-
 ![GitHub Streak](https://streak-stats.demolab.com/?user=sonukumaryadav6104-design&theme=tokyonight)
 
-
-### 🚀 Featured Repositories
-
-<p align="center">
-  <a href="https://github.com/your-username/repo1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=repo1&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/your-username/repo2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=repo2&theme=tokyonight" />
-  </a>
-</p>
 
