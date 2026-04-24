@@ -31,11 +31,11 @@
 
 ## 📊 GitHub Stats
 
-![Sonu's GitHub stats](https://github-readme-stats.vercel.app/api?username=sonukumaryadav6104&show_icons=true&theme=tokyonight)
+![Sonu's GitHub stats](https://github-readme-stats.vercel.app/api?username=sonukumaryadav6104-design&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sonukumaryadav6104&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sonukumaryadav6104-design&layout=compact&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=sonukumaryadav6104&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=sonukumaryadav6104-design&theme=tokyonight)
 
 
 ### 🚀 Featured Repositories
