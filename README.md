@@ -29,14 +29,15 @@
 <img src="https://leetcard.jacoblin.cool/Sonu_kumar61?theme=tokyonight&font=Baloo%202&ext=heatmap" />
 </div>
 
-### 📊 GitHub States
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sonukumaryadav6104-design&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonukumaryadav6104-design&layout=compact&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sonukumaryadav6104-design&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonukumaryadav6104-design&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+</p>
 
 
 ### 🚀 Featured Repositories
