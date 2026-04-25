@@ -2,7 +2,7 @@
 #                                      <p align="center">  Hi there👋, I'm Sonu Kumar <br> <p>
 
 
-###  Software Engineer | MERN Stack Developer | DSA && Machine Learning Enthusiast |<br><br>Passionate about building intelligent systems and solving real-world problems. 
+###  Software Engineer | MERN Stack Developer | DSA & Machine Learning Enthusiast |<br><br>Passionate about building intelligent systems and solving real-world problems. 
 ### <br>💡 Currently focused on:<br>- Mastering DSA for strong problem-solving skills  <br>- Learning and implementing Machine Learning models  <br>- Building real world application using MERN <br>
 
 
