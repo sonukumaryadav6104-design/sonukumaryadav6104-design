@@ -29,7 +29,5 @@
 <img src="https://leetcard.jacoblin.cool/Sonu_kumar61?theme=tokyonight&font=Baloo%202&ext=heatmap" />
 </div>
 
-## 📊 GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=sonukumaryadav6104-design&theme=tokyonight&cache_bust=1)
 
