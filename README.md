@@ -3,7 +3,7 @@
 
 
 ###  Software Engineer | MERN Stack Developer | DSA  | Artificial Intelligence and Machine Learning Enthusiast |<br><br>Passionate about building intelligent systems and solving real-world problems. 
-### <br>💡 Currently focused on:<br>- Mastering DSA for strong problem-solving skills  <br>- Learning and implementing Machine Learning models  <br>- Building real world application using MERN <br>
+### <br>💡 Currently focused on:<br>-   Mastering DSA for strong problem-solving skills  <br>-   Learning and implementing Machine Learning models 
 
 
 ## 💻 Tech Stack:
