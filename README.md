@@ -42,20 +42,7 @@
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
 
 
-## 📊 GitHub Analytics
 
-<div align="center">
-
-<img height="165px" src="https://github-readme-stats.vercel.app/api?username=sonukumaryadav6104-design&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&title_color=ff6b6b&icon_color=9b59b6&text_color=ffffff"/>
-<img height="165px" src="https://github-readme-streak-stats.herokuapp.com/?user=sonukumaryadav6104-design&theme=radical&hide_border=true&background=00000000&ring=ff6b6b&fire=9b59b6&currStreakLabel=ffffff"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonukumaryadav6104-design&layout=compact&theme=radical&hide_border=true&bg_color=00000000&title_color=ff6b6b&text_color=ffffff"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sonukumaryadav6104-design&theme=redical&hide_border=true&bg_color=00000000&color=9b59b6&line=ff6b6b&point=3498db" width="100%"/>
-
-</div>
-
----
 
 ## 🏆 Leetcode
 
