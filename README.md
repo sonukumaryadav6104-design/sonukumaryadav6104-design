@@ -12,12 +12,6 @@
 
 </div>
 
-<br/>
-
-
-
----
-
 ## 🚀 About Me
 
 - 🎓 B.Tech Computer Science Engineering student at **IES College of Technology, Bhopal**
