@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:9B59B6,100:3498DB&height=220&section=header&text=Sonu%20Kumar%20Yadav&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=AI/ML%20Engineer%20%7C%20Full-Stack%20(MERN)%20Developer&descSize=18&descAlignY=58&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:9B59B6,100:3498DB&height=220&section=header&text=Sonu%20Kumar%20Yadav&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=AI/ML%20Engineer%20%7C%20Full-Stack%20(MERN)%20Developer&descSize=18&descAlignY=58&animation=fadeIn" width="100%"/>
 
 <a href="https://www.linkedin.com/in/sonu-kumar-32a09a2ba">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -51,12 +51,6 @@
 <img src="https://leetcard.jacoblin.cool/Sonu_kumar61?theme=dark&font=Baloo%202&ext=heatmap" />
 
 </div>
-
-- ⚔️ Daily practice across **Codeforces** and **LeetCode**
-- 🌳 Recent focus: tree/graph problems (small-to-large hash merging), number theory (gcd/lcm identities, floor-sum formulas)
-- ☕ Primary language: **Java** with `BufferedReader` / `StringTokenizer` for fast I/O
-
----
 
 ## 🤝 Let's Connect
 
