@@ -1,94 +1,63 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F2027,50:203A43,100:2C5364&text=Sonu%20Kumar%20Yadav&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI/ML%20Engineer%20•%20MERN%20Stack%20Developer%20•%20Problem%20Solver&descAlignY=58"/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer;Full+Stack+Developer;270%2B+LeetCode+Problems+Solved;Open+Source+Contributor;Always+Learning+New+Technologies"/>
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/sonu-kumar-32a09a2ba">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:sonukumaryadav6104@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/Sonu_kumar61">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-<a href="https://codeforces.com/profile/Sonu_kumar61">
-<img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white"/>
-</a>
-
-</p>
-
-![](https://komarev.com/ghpvc/?username=Sonu-kumar61&style=for-the-badge&color=blue)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F2027,50:203A43,100:2C5364&text=Sonu%20Kumar%20Yadav&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20•%20MERN%20Developer%20•%20Problem%20Solver&descAlignY=58"/>
 
 </div>
 
----
 
-# 💫 About Me
 
-🎓 B.Tech Computer Science Engineering Student
+## 🚀 About Me
 
-🏫 IES College of Technology, Bhopal
+* 🎓 **B.Tech Computer Science Engineering** student at **IES College of Technology, Bhopal**.
+* 💡 Passionate about building **AI-powered applications**, scalable backend systems, and intuitive user experiences.
+* 🤖 Interested in **Artificial Intelligence, Machine Learning, Generative AI, and Full-Stack (MERN) Development**.
+* 💻 Strong foundation in **Data Structures & Algorithms**, with **300+ LeetCode problems** solved.
+* 🚀 Experienced in developing end-to-end projects using **React, Node.js, Express, MongoDB, Python, and Streamlit**.
+* 🌱 Currently exploring **Large Language Models (LLMs), Deep Learning, MLOps, System Design, and Cloud Technologies**.
+* 🎯 Aspiring **Software Engineer / AI Engineer**, focused on creating impactful, real-world solutions and continuously improving problem-solving skills.
+* 🤝 Open to **internships, open-source collaborations, and exciting software engineering opportunities**.
 
-💡 Passionate about Artificial Intelligence, Machine Learning and Full Stack Development
+# 💻 Tech Stack
 
-🚀 Building scalable AI-powered applications using MERN & Python
+<div align="center">
 
-🧠 Solved **270+ Problems on LeetCode**
-
-🎯 Goal: Software Engineer | AI Engineer
-
-🌱 Currently learning
-
-- LLMs
-- Deep Learning
-- System Design
-- MLOps
-- Cloud
-
----
-
-# 🚀 Tech Stack
-
-## 🤖 AI / ML
+## 🤖 AI & Machine Learning
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn"/>
-
-<img src="https://skillicons.dev/icons?i=anaconda"/>
-
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,anaconda"/>
 </p>
-
-Python • PyTorch • TensorFlow • OpenCV • Streamlit • NumPy • Pandas • Matplotlib • Scikit-Learn
-
----
-
-## 💻 Full Stack Development
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,js,html,css,tailwind,bootstrap"/>
-
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 </p>
 
----
 
-## ⚙️ Tools
+## 🌐 Full Stack Development
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,firebase,supabase"/>
-
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,tailwind,bootstrap"/>
 </p>
 
----
+
+
+## ☁️ Backend & Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,supabase,firebase"/>
+</p>
+
+
+
+## 🛠️ Developer Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm"/>
+</p>
+
 
 
 
@@ -99,8 +68,6 @@ Python • PyTorch • TensorFlow • OpenCV • Streamlit • NumPy • Pandas 
 <img src="https://leetcard.jacoblin.cool/Sonu_kumar61?theme=dark&font=Poppins&ext=heatmap"/>
 
 </div>
-
----
 
 # 📫 Connect With Me
 
@@ -118,18 +85,14 @@ Python • PyTorch • TensorFlow • OpenCV • Streamlit • NumPy • Pandas 
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
 </a>
 
-<a href="https://codeforces.com/profile/Sonu_kumar61">
-<img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces"/>
-</a>
+
 
 </div>
 
----
 
-<div align="center">
+
 
 ### ⭐ Thanks for visiting my profile!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:0F2027,50:203A43,100:2C5364"/>
 
-</div>
+
