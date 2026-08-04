@@ -3,11 +3,11 @@
 </h1>
 
 <p align="center">
-  Aspiring Software Enginear| AI & ML Enthusiast| MERN Developer | Building Scalable AI Applications
+  Aspiring Software Enginear| AI & ML Enthusiast| MERN Developer 
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Developing+Production-Ready+AI+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Building+Scalable+AI+Applications" alt="Typing SVG" />
 </p>
 
 
