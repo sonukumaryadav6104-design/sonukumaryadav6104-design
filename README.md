@@ -63,10 +63,11 @@
 <div align="center">
 
 <a href="mailto:sonukumaryadav6104@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
 <a href="mailto:sonukumaryadav6104@gmail.com">
-  <img src="https://img.shields.io/badge/Contact%20Me-C0392B?style=for-the-badge" alt="Contact Me"/>
+  <img src="https://img.shields.io/badge/Contact_Me-C0392B?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/sonu-kumar-32a09a2ba" target="_blank">
