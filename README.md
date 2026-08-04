@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  Aspiring Software Enthuisist | AI & ML Enthusiast| MERN Developer | Building Scalable AI Applications
+  Aspiring Software Enginear| AI & ML Enthusiast| MERN Developer | Building Scalable AI Applications
 </p>
 
 <p align="center">
@@ -12,14 +12,13 @@
 
 
 ## 👨‍💻 About Me
-I am a **B.Tech AIML** student at **IES College of Technology, Bhopal (2024–2028)** with a passion for **Software Engineering** and **Artificial Intelligence**. I enjoy building scalable applications and developing **production-ready AI solutions** using **LLMs, RAG, and modern full-stack technologies**. I continuously improve my **Data Structures & Algorithms** skills by solving real-world problems.
+#### I am a **B.Tech AIML** student at **IES College of Technology, Bhopal (2024–2028)** with a passion for **Software Engineering** and **Artificial Intelligence**. I enjoy building scalable applications and developing **production-ready AI solutions**  using modern AI technologies and full-stack development*. I continuously improve my **Data Structures & Algorithms** skills by solving real-world problems.
 
-# 💻 Tech Stack
+<br>
 
+
+## 🤖 AI Engineering & Machine Learning
 <div align="center">
-
-### 🤖 AI Engineering Skills
-
 <p>
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
@@ -37,19 +36,31 @@ I am a **B.Tech AIML** student at **IES College of Technology, Bhopal (2024–20
   <img src="https://img.shields.io/badge/Unsupervised%20Learning-F59E0B?style=for-the-badge"/>
 </p>
 
-</div>
 
-# 🏆 LeetCode
+
+</div>
+<br>
+
+## 💻 <b>Tech Stack </b>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,mysql,tailwind,bootstrap,git,github,vscode"/>
+</p>
+
+<br>
+
+## 🏆 LeetCode
 
 <div align="center">
 
-<img src="https://leetcard.jacoblin.cool/Sonu_kumar61?theme=dark&font=Poppins&ext=heatmap"/>
+<img src="https://leetcard.jacoblin.cool/Sonu_kumar61?theme=light&font=Karma&ext=heatmap"/>
 
-
+</div>
 
 
 
 # 📫 Connect With Me
+<div align="center">
 
 <a href="mailto:sonukumaryadav6104@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
@@ -74,13 +85,7 @@ I am a **B.Tech AIML** student at **IES College of Technology, Bhopal (2024–20
 
 
 
-
-
-
-
-
-
-### ⭐ Thanks for visiting my profile!
+</div>
 
 
 
