@@ -49,24 +49,29 @@ I'm an aspiring Software Engineer and AI enthusiast passionate about building sc
 
 
 
+
 # 📫 Connect With Me
 
 <a href="mailto:sonukumaryadav6104@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
+<a href="mailto:sonukumaryadav6104@gmail.com">
+  <img src="https://img.shields.io/badge/Contact%20Me-C0392B?style=for-the-badge" alt="Contact Me"/>
+</a>
 
-<a href="https://www.linkedin.com/in/sonu-kumar-32a09a2ba">
+<a href="https://www.linkedin.com/in/sonu-kumar-32a09a2ba" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
+<a href="https://www.linkedin.com/in/sonu-kumar-32a09a2ba" target="_blank">
+  <img src="https://img.shields.io/badge/Connect-0A66C2?style=for-the-badge" alt="Connect"/>
+</a>
 
-<a href="https://leetcode.com/Sonu_kumar61">
+<a href="https://leetcode.com/Sonu_kumar61" target="_blank">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
 </a>
-
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<a href="https://leetcode.com/Sonu_kumar61" target="_blank">
+  <img src="https://img.shields.io/badge/Solve-F89C1C?style=for-the-badge" alt="Solve"/>
 </a>
-```
 
 
 
