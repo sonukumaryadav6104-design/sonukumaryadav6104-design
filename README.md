@@ -12,8 +12,7 @@
 
 
 ## 👨‍💻 About Me
-
-I'm an aspiring Software Engineer and AI enthusiast passionate about building scalable, real-world applications. **Developing Production-Ready AI Solutions** with LLMs, RAG, and modern full-stack technologies is one of my primary interests. I enjoy solving complex problems through code, continuously learning, and building impactful projects while strengthening my Data Structures and Algorithms skills.
+I am a **B.Tech AIML** student at **IES College of Technology, Bhopal (2024–2028)** with a passion for **Software Engineering** and **Artificial Intelligence**. I enjoy building scalable applications and developing **production-ready AI solutions** using **LLMs, RAG, and modern full-stack technologies**. I continuously improve my **Data Structures & Algorithms** skills by solving real-world problems.
 
 # 💻 Tech Stack
 
