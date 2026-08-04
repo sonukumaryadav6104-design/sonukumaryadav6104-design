@@ -1,5 +1,5 @@
 <h1 align="center">
-  <strong> Hi there! 👋 I'm <strong>Sonu Kumar Yadav </strong></strong>
+  <strong> Hi there! 👋 I'm <strong>Sonu Kumar </strong></strong>
 </h1>
 
 <p align="center">
