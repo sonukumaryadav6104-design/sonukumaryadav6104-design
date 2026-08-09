@@ -19,22 +19,33 @@
 
 ## ⚡AI & Generative AI Technologies
 <div align="center">
-<p>
+<!-- 🤖 AI / MACHINE LEARNING -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Machine%20Learning-0EA5E9?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Deep%20Learning-8B5CF6?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Transformers-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black"/>
-  <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/LangGraph-7C3AED?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Model%20Training-E11D48?style=for-the-badge"/>
 </p>
 
-<p>
-  <img src="https://img.shields.io/badge/RAG-2563EB?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Agentic%20AI-8B5CF6?style=for-the-badge"/>
+<!-- 🧠 LLM / GENERATIVE AI -->
+<p align="center">
+  <img src="https://img.shields.io/badge/LLM-6366F1?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Transformers-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black"/>
   <img src="https://img.shields.io/badge/Generative%20AI-10B981?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Model%20Training-E11D48?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Supervised%20Learning-0EA5E9?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Unsupervised%20Learning-F59E0B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RAG-2563EB?style=for-the-badge"/>
 </p>
+
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Agentic%20AI-8B5CF6?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LangGraph-7C3AED?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Agno-FF6B35?style=for-the-badge"/>
+</p>
+
+
+  
 
 
 
