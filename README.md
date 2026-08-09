@@ -20,7 +20,7 @@
 ## ⚡AI & Generative AI Technologies
 <div align="center">
 <!-- 🤖 AI / MACHINE LEARNING -->
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/Machine%20Learning-0EA5E9?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Deep%20Learning-8B5CF6?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
@@ -29,7 +29,7 @@
 </p>
 
 <!-- 🧠 LLM / GENERATIVE AI -->
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/LLM-6366F1?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Transformers-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black"/>
   <img src="https://img.shields.io/badge/Generative%20AI-10B981?style=for-the-badge"/>
@@ -37,7 +37,7 @@
 </p>
 
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/Agentic%20AI-8B5CF6?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/LangGraph-7C3AED?style=for-the-badge"/>
