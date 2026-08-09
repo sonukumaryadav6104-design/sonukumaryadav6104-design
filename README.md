@@ -17,7 +17,7 @@
 <br>
 
 
-## ⚡AI & Generative AI Technologies
+## ⚡AIML & Generative AI Technologies
 <div align="center">
 <!-- 🤖 AI / MACHINE LEARNING -->
 <p>
