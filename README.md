@@ -52,7 +52,7 @@
 </div>
 <br>
 
-## 💻 <b>Tech Stack </b>
+## 💻 Full-Stack Development
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,mysql,tailwind,bootstrap,git,github,vscode"/>
