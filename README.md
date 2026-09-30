@@ -55,7 +55,7 @@
 ## 💻 Full-Stack Development
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,mysql,tailwind,bootstrap,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,tailwind,bootstrap,git,github,vscode"/>
 </p>
 
 <br>
